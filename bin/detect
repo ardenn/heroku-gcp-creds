@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "GCP HELPER"
+exit 0
